@@ -1,8 +1,10 @@
-# pytest-split
+# pytest-split-ng
 
-[![PyPI](https://img.shields.io/pypi/v/pytest-split?style=flat-square)](https://pypi.python.org/pypi/pytest-split/)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pytest-split?style=flat-square)](https://pypi.python.org/pypi/pytest-split/)
-[![PyPI - License](https://img.shields.io/pypi/l/pytest-split?style=flat-square)](https://pypi.python.org/pypi/pytest-split/)
+> **Note:** This is a maintained fork of [pytest-split](https://github.com/jerry-git/pytest-split) with support for pytest 9+.
+
+[![PyPI](https://img.shields.io/pypi/v/pytest-split-ng?style=flat-square)](https://pypi.python.org/pypi/pytest-split-ng/)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pytest-split-ng?style=flat-square)](https://pypi.python.org/pypi/pytest-split-ng/)
+[![PyPI - License](https://img.shields.io/pypi/l/pytest-split-ng?style=flat-square)](https://pypi.python.org/pypi/pytest-split-ng/)
 [![Coookiecutter - Wolt](https://img.shields.io/badge/cookiecutter-Wolt-00c2e8?style=flat-square&logo=cookiecutter&logoColor=D4AA00&link=https://github.com/woltapp/wolt-python-package-cookiecutter)](https://github.com/woltapp/wolt-python-package-cookiecutter)
 
 
@@ -28,7 +30,7 @@ Additionally, `pytest-split` may be a better fit in some use cases considering d
 
 ## Installation
 ```sh
-pip install pytest-split
+pip install pytest-split-ng
 ```
 
 ## Usage
